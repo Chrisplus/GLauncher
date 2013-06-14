@@ -1,11 +1,13 @@
 GLauncher
 =========
 
-#This is UNOFFICIAL Github app for Chrome. What it can do are that
+This is UNOFFICIAL Github app for Chrome. 
+
+# All WAHT IT CAN DO ARE
 
 * Showing a COOL icon on your chrome dashboard.
 * Open "*github.com*" when you click COOL icon.
-* Enjoy it !  
+* Enjoy it !
 
 
 # NOTICE
